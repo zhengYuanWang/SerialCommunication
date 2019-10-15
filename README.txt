@@ -5,7 +5,7 @@
 
 软件名：		串口通信软件测试版
 作者：		while(n!=1)
-开发环境：	Windows10专业版 + Visual Studio 2015集成开发环境
+开发环境：	Windows10专业版 + Visual Studio 2015集成开发环境 + C#语言（winform）
 支持系统：	Windows7及以上操作系统（理论）
 版本迭代：	1.2.3.191015_beta
 功能描述：	串口间通讯
